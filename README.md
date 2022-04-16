@@ -1,0 +1,1 @@
+# near-ai-generated-collective-nft-collection
