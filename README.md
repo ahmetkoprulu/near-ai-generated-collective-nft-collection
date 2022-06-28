@@ -25,8 +25,6 @@
 
 This project aims to making people able to create nft collections by directly contributing itself. Rather than minting predefined assets, mintable assets will be generated before minting process via image generating artifical intelligence algorithm. Therefore, each collection will be unique and contributors will be able to write their own story. Also, the contract lives as a marketplace for the collection to let the assets find their price in the first place.
 
-You can check [loom video]
-
 ### Infrastructure
 
 The project is built on near protocol and implements token standard NEP171 (Standard NFT Interface) and its extensions NEP 181 (Enumeration) and NEP177 (Metadata). While generated assets are stored on remote server, related informations including media url are stored on the near chain. Images will be generated via <b>Deep AI</b>'s text to image api.
